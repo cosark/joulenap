@@ -114,6 +114,10 @@ neutral default. Prefer Compose? See [`docker-compose.example.yml`](docker-compo
 install, timezone, and first-run setup. Every config field is documented in
 [`config.example.yaml`](config.example.yaml).
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Joulenap/)
+
 ## Configuration
 
 <img src="assets/wizard.jpg" width="830" title="Wizard">
